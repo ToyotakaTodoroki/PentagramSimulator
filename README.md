@@ -37,4 +37,5 @@ open Package.swift
 本プロジェクトは、外部への通信やデータの送信は一切行いません。シミュレーションはすべてローカルの GPU 上で完結します。
 
 ## ライセンス
-MIT License
+本プロジェクトは [MIT License](LICENSE) の下で公開されています。
+

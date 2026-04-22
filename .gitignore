@@ -17,9 +17,6 @@ DerivedData/
 # User-specific
 xcuserdata/
 
-# Executables
-PentagramSimulator
-
 # Media (Excluding heavy files)
 *.mov
 mov/

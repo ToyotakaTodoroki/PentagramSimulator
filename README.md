@@ -17,7 +17,7 @@
 
 ### 1. リポジトリをクローン
 ```bash
-git clone <your-repository-url>
+git clone git@github.com:ToyotakaTodoroki/PentagramSimulator.git
 cd PentagramSimulator
 ```
 
@@ -37,4 +37,4 @@ open Package.swift
 本プロジェクトは、外部への通信やデータの送信は一切行いません。シミュレーションはすべてローカルの GPU 上で完結します。
 
 ## ライセンス
-(ライセンス情報をここに追加してください。例：MIT License)
+MIT License

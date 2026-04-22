@@ -1,0 +1,25 @@
+# Swift / Swift Package Manager
+.build/
+Packages/
+Package.resolved
+.swiftpm/
+
+# Xcode
+build/
+DerivedData/
+*.xcodeproj/
+*.xcworkspace/
+!Package.swift
+
+# macOS
+.DS_Store
+
+# User-specific
+xcuserdata/
+
+# Executables
+PentagramSimulator
+
+# Media (Excluding heavy files)
+*.mov
+mov/
